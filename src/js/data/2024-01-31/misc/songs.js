@@ -1,17 +1,7 @@
 export const songs = [
   {
-    name: "#COMPASS2.0 ANIMATION PROJECT - \"Hakudou\" by Nana Mizuki",
-    videoId: "_KxMEcrDgJg",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "A Ninja and an Assassin Under One Roof  - \"Yaren no? Endless\" by Kana Hanazawa",
-    videoId: "https://naedist.animemusicquiz.com/oe8oyh.webm",
+    name: "Aoashi - \"Presence\" by Superfly",
+    videoId: "https://naedist.animemusicquiz.com/inr47k.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -20,8 +10,8 @@ export const songs = [
     }
   },
   {
-    name: "Aharen-san wa Hakarenai Season 2 - \"Binetsuma\" by Zutomayo",
-    videoId: "https://naedist.animemusicquiz.com/3x2msk.webm",
+    name: "TONIKAWA: Over The Moon For You - \"Koi no Uta (feat. Tsukasa Yuzaki)\" by Yunomi feat. Akari Kitou",
+    videoId: "https://naedist.animemusicquiz.com/8uqyus.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -30,28 +20,8 @@ export const songs = [
     }
   },
   {
-    name: "Anne Shirley - \"Yokan\" by Tota",
-    videoId: "7Pq-hk1Isno",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Apocalypse Hotel - \"skirt\" by aiko",
-    videoId: "l7U6Qw34JN8",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Black Butler: Emerald Witch Arc - \"MAISIE Produced by HYDE\" by C\u00f6 shu Nie",
-    videoId: "https://naedist.animemusicquiz.com/5es0aq.webm",
+    name: "Bartender Glass of God - \"Stardust Memory\" by Takaya Kawasaki",
+    videoId: "https://naedist.animemusicquiz.com/jgg56d.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -60,8 +30,8 @@ export const songs = [
     }
   },
   {
-    name: "Bye Bye, Earth Season 2 - \"Aufheben\" by Who-ya Extended",
-    videoId: "https://naedist.animemusicquiz.com/qmdov1.webm",
+    name: "Valvrave the Liberator - \"Preserved Roses\" by T.M.Revolution\u00d7Nana Mizuki",
+    videoId: "https://naedist.animemusicquiz.com/yrlenq.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -70,8 +40,8 @@ export const songs = [
     }
   },
   {
-    name: "Can a Boy-Girl Friendship Survive? - \"Shitsumon, Koi tte Nan Deshou ka?\" by HoneyWorks feat. HaKoniwalily",
-    videoId: "https://naedist.animemusicquiz.com/kkorpy.webm",
+    name: "Megalobox - \"Bite\" by LEO Imai",
+    videoId: "https://naedist.animemusicquiz.com/9bmkjw.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -80,8 +50,8 @@ export const songs = [
     }
   },
   {
-    name: "Catch Me at the Ballpark! - \"Hurray!!\" by GENIC",
-    videoId: "https://naedist.animemusicquiz.com/qr7x6z.webm",
+    name: "Rampo Kitan: Game of Laplace - \"Speed to Masatsu\" by amazarashi",
+    videoId: "https://naedist.animemusicquiz.com/pmtla0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -90,8 +60,8 @@ export const songs = [
     }
   },
   {
-    name: "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo o Toite Shimaukara. - \"Kanojo wa Ima, Meikyuu no Naka.\" by HoneyWorks feat. KAF",
-    videoId: "https://naedist.animemusicquiz.com/n16zc4.webm",
+    name: "My Home Hero - \"Ai no Uta\" by Chiai Fujikawa",
+    videoId: "https://naedist.animemusicquiz.com/0e8zk6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -100,8 +70,8 @@ export const songs = [
     }
   },
   {
-    name: "Classic\u2605Stars - \"Singularist\" by Yuuma Uchida",
-    videoId: "https://naedist.animemusicquiz.com/174eo2.webm",
+    name: "Casshern Sins - \"Aoi Hana\" by Color Bottle",
+    videoId: "https://naedist.animemusicquiz.com/nekl68.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -110,8 +80,8 @@ export const songs = [
     }
   },
   {
-    name: "Fire Force Season 3 - \"Tsuyobi\" by Ziyoou-vachi",
-    videoId: "https://naedist.animemusicquiz.com/qv9008.webm",
+    name: "Godzilla Singular Point - \"in case...\" by BiSH",
+    videoId: "https://naedist.animemusicquiz.com/7bdwxn.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -120,18 +90,8 @@ export const songs = [
     }
   },
   {
-    name: "Food for the Soul - \"Sonna Mon ne\" by asmi",
-    videoId: "ihJy6p71nuA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "From Old Country Bumpkin to Master Swordsman - \"HEROES\" by Takanori Nishikawa",
-    videoId: "https://naedist.animemusicquiz.com/q67zke.webm",
+    name: "11eyes - \"Arrival of Tears\" by Ayane",
+    videoId: "https://naedist.animemusicquiz.com/4u8e4c.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -140,8 +100,8 @@ export const songs = [
     }
   },
   {
-    name: "Guilty Gear Strive: Dual Rulers - \"AXCLUSION\" by ulma sound junction",
-    videoId: "https://naedist.animemusicquiz.com/dn3a70.webm",
+    name: "Zombie Land Saga Revenge - \"Taiga yo Tomo ni Naite Kure\" by FranChouChou",
+    videoId: "https://naedist.animemusicquiz.com/6xzds8.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -150,18 +110,8 @@ export const songs = [
     }
   },
   {
-    name: "Himitsu no AiPri: Ring-hen - \"Ring Ring Ring feat. Himari\" by Pmaru-sama., Himari Aozora",
-    videoId: "tgIk5WIDYbA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "I'm the Evil Lord of an Intergalactic Empire! - \"Uchuu-teki MYSTERY\" by Saishu Mirai Shoujo",
-    videoId: "https://naedist.animemusicquiz.com/w3q916.webm",
+    name: "Back Arrow - \"dawn\" by LiSA",
+    videoId: "https://naedist.animemusicquiz.com/uvvcdt.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -170,8 +120,8 @@ export const songs = [
     }
   },
   {
-    name: "I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 - \"So\u2606Lucky\" by Yui Ogura",
-    videoId: "https://nawdist.animemusicquiz.com/5ogols.webm",
+    name: "Otomege Sekai wa Mob ni Kibishii Sekai desu - \"Silent Minority\" by Kashitaro Ito",
+    videoId: "https://naedist.animemusicquiz.com/cshbas.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -180,8 +130,8 @@ export const songs = [
     }
   },
   {
-    name: "Kowloon Generic Romance - \"Summertime Ghost\" by Wednesday Campanella",
-    videoId: "https://naedist.animemusicquiz.com/2w4gxt.webm",
+    name: "Run with the Wind - \"Catch up, latency\" by UNISON SQUARE GARDEN",
+    videoId: "https://naedist.animemusicquiz.com/j0z8j5.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -190,28 +140,8 @@ export const songs = [
     }
   },
   {
-    name: "Lazarus - \"Vortex\" by Kamasi Washington",
-    videoId: "XBMrH1ZQs90",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Maebashi Witches - \"Sugo Sugi Maebashi Witches!\" by Maebashi Witches",
-    videoId: "IrNEa5_C2KM",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Makina-san's a Love Bot?! - \"Ie de Yeah! tte Agetiger\" by Serena Kozuki",
-    videoId: "https://naedist.animemusicquiz.com/eo671b.webm",
+    name: "Princess Principal - \"The Other Side of the Wall\" by Void_Chords feat.MARU",
+    videoId: "https://naedist.animemusicquiz.com/ol00hv.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -220,8 +150,8 @@ export const songs = [
     }
   },
   {
-    name: "Mashin Souzouden Wataru - \"Sou\" by SANTA",
-    videoId: "https://naedist.animemusicquiz.com/ehxs66.webm",
+    name: "Inu X Boku Secret Service - \"Nirvana\" by MUCC",
+    videoId: "https://naedist.animemusicquiz.com/1jnrs6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -230,28 +160,8 @@ export const songs = [
     }
   },
   {
-    name: "MIRU: Watashi no Mirai - \"AI=UTA\" by V.W.P",
-    videoId: "0VdXYfciwm8",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Mobile Suit Gundam GQuuuuuuX - \"Plazma\" by Kenshi Yonezu",
-    videoId: "fp3F6TqBsAU",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "My Hero Academia: Vigilantes - \"Kekka Alright\" by Kocchi no Kento",
-    videoId: "https://naedist.animemusicquiz.com/02ruhf.webm",
+    name: "Fate/kaleid liner Prisma\u2606Illya - \"starlog\" by ChouCho",
+    videoId: "https://naedist.animemusicquiz.com/3r2had.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -260,18 +170,8 @@ export const songs = [
     }
   },
   {
-    name: "Once Upon a Witch's Death - \"Drops\" by Maaya Sakamoto",
-    videoId: "PEP7a_FoIi4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "One Piece - \"Tenshi to Akuma\" by GRe4N BOYZ",
-    videoId: "https://naedist.animemusicquiz.com/qyawrg.webm",
+    name: "Yosuga no Sora - \"Hiyoku no Hane\" by eufonius",
+    videoId: "https://naedist.animemusicquiz.com/auhhnh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -280,8 +180,8 @@ export const songs = [
     }
   },
   {
-    name: "Please Put Them On, Takamine-san - \"Baby Baby Baby\" by Masami Okui with Bonjour Suzuki",
-    videoId: "https://naedist.animemusicquiz.com/x1bqcn.webm",
+    name: "Gosick - \"Destin Histoire\" by yoshiki*lisa",
+    videoId: "https://naedist.animemusicquiz.com/kh6yis.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -290,38 +190,8 @@ export const songs = [
     }
   },
   {
-    name: "Princess-Session Orchestra - \"Zettai Utahime Sengan-tsu!\" by Orkelia",
-    videoId: "oYOcKstusWs",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Rock is a Lady\u2019s Modesty - \"Ready to Rock\" by BAND-MAID",
-    videoId: "yvQJMvms-ok",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Sentai Daishikkaku 2nd Season - \"Maji de Sekai Kaechau 5-byou Mae\" by ORANGE RANGE",
-    videoId: "TGgGPPQmtk4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "SHOSHIMIN: How to become Ordinary Season 2 - \"Kaseijin\" by Yorushika",
-    videoId: "https://naedist.animemusicquiz.com/2ejeyw.webm",
+    name: "Magic Knight Rayearth - \"Yuzurenai Negai\" by Naomi Tamura",
+    videoId: "https://naedist.animemusicquiz.com/qp6p03.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -330,28 +200,8 @@ export const songs = [
     }
   },
   {
-    name: "Summer Pockets - \"Alka Tale\" by Konomi Suzuki",
-    videoId: "REuUOArc0W4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Sword of the Demon Hunter: Kijin Gentosho - \"Continue\" by NEE",
-    videoId: "1-qts35mIkM",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Teogonia  - \"Shoudou\" by Emi Noda",
-    videoId: "https://naedist.animemusicquiz.com/47h0t3.webm",
+    name: "Beyond the Boundary - \"Kyoukai no Kanata\" by Minori Chihara",
+    videoId: "https://naedist.animemusicquiz.com/917i9b.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -360,8 +210,8 @@ export const songs = [
     }
   },
   {
-    name: "The Apothecary Diaries Season 2 - \"Kusushiki\" by Mrs. GREEN APPLE",
-    videoId: "https://naedist.animemusicquiz.com/070r4c.webm",
+    name: "Wandering Witch: The Journey of Elaina - \"Literature\" by Reina Ueda",
+    videoId: "https://naedist.animemusicquiz.com/12yk83.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -370,8 +220,8 @@ export const songs = [
     }
   },
   {
-    name: "The Beginning After the End - \"KINGSBLOOD\" by KALA",
-    videoId: "https://naedist.animemusicquiz.com/ok08ez.webm",
+    name: "Little Busters! - \"Little Busters! ~TV animation ver.~\" by Rita",
+    videoId: "https://naedist.animemusicquiz.com/7qpvgz.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -380,8 +230,8 @@ export const songs = [
     }
   },
   {
-    name: "The Brilliant Healer's New Life in the Shadows - \"Light Maker\" by bokula.",
-    videoId: "https://naedist.animemusicquiz.com/x8x1s5.webm",
+    name: "Kingdom - \"Pride\" by Nothing's Carved In Stone",
+    videoId: "https://naedist.animemusicquiz.com/f32e7u.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -390,8 +240,8 @@ export const songs = [
     }
   },
   {
-    name: "The Dinner Table Detective - \"MONTAGE\" by Kento Nakajima",
-    videoId: "https://naedist.animemusicquiz.com/rnut66.webm",
+    name: "Fullmetal Alchemist - \"Melissa\" by Porno Graffitti",
+    videoId: "https://naedist.animemusicquiz.com/x4cvb9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -400,8 +250,8 @@ export const songs = [
     }
   },
   {
-    name: "The Gorilla God\u2019s Go-To Girl - \"Illuminate\" by Shugo Nakamura",
-    videoId: "https://naedist.animemusicquiz.com/sqeki2.webm",
+    name: "Scarlet Nexus - \"Red Criminal\" by THE ORAL CIGARETTES",
+    videoId: "https://naedist.animemusicquiz.com/gxaegz.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -410,18 +260,8 @@ export const songs = [
     }
   },
   {
-    name: "The Shiunji Family Children - \"Honey Lemon\" by NACHERRY",
-    videoId: "MqKDozk20eA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "The Too-Perfect Saint: Tossed Aside by My Fianc\u00e9 and Sold to Another Kingdom - \"Aitoka.\" by Riria.",
-    videoId: "https://naedist.animemusicquiz.com/y89pf1.webm",
+    name: "Persona 5 the Animation - \"BREAK IN TO BREAK OUT\" by Lyn",
+    videoId: "https://naedist.animemusicquiz.com/ac08r1.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -430,28 +270,8 @@ export const songs = [
     }
   },
   {
-    name: "The Unaware Atelier Meister - \"FACSTORY\" by MeseMoa.",
-    videoId: "yGs7Oiw-Aa8",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "To Be Hero X - \"INERTIA\" by SawanoHiroyuki\u200b[nZk]:Rei",
-    videoId: "8QJ8KNdhkiA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Umamusume: Cinderella Gray - \"Koeru\" by [Alexandros]",
-    videoId: "https://naedist.animemusicquiz.com/2tw61w.webm",
+    name: "Corpse Princess: Aka - \"Beautiful fighter\" by angela",
+    videoId: "https://naedist.animemusicquiz.com/2thdnq.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -460,8 +280,8 @@ export const songs = [
     }
   },
   {
-    name: "WIND BREAKER Season 2 - \"BOYZ\" by SixTONES",
-    videoId: "https://naedist.animemusicquiz.com/fxvhp9.webm",
+    name: "Dandadan - \"Otonoke\" by Creepy Nuts",
+    videoId: "https://naedist.animemusicquiz.com/1wk774.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -470,49 +290,9 @@ export const songs = [
     }
   },
   {
-    name: "WITCH WATCH - \"Watch me!\" by YOASOBI",
-    videoId: "https://naedist.animemusicquiz.com/04hc1e.webm",
+    name: "Mobile Suit Gundam Wing - \"JUST COMMUNICATION\" by TWO-MIX",
+    videoId: "https://naedist.animemusicquiz.com/tjazu1.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "YAIBA: Samurai Legend  - \"BLADE\" by BLUE ENCOUNT",
-    videoId: "https://naedist.animemusicquiz.com/qo32bx.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Yandere Dark Elf: She Chased Me All the Way From Another World! - \"Omoi Ai\" by Hatenko Fuufu",
-    videoId: "8MljKa24Tuc",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Your Forma - \"GRIDOUT\" by yama",
-    videoId: "https://naedist.animemusicquiz.com/13psrq.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "ZatsuTabi -That's Journey- - \"Tabi Shiyo! don't you?\" by harmoe",
-    videoId: "9se7Hsnbo9I",
-    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
